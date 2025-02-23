@@ -20,3 +20,10 @@ Libraries: scikit-learn, imbalanced-learn, pandas, NumPy, Flask
 ✅ Improve feature engineering
 ✅ Tune hyperparameters for better performance
 ✅ Integrate with a real-time fraud detection system
+
+DataSet used:
+     -> kaggle/credit_card_2023.csv 
+        This dataset is used to train the model and perform initial testing.
+     -> synthetic_test_data.csv 
+        This was used to test the working of the model to check its accuracy and all.
+        
