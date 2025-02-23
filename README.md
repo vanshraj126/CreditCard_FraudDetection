@@ -14,3 +14,9 @@ Deployable with Flask and ngrok for real-world usage
 
 Programming Language: Python
 Libraries: scikit-learn, imbalanced-learn, pandas, NumPy, Flask
+
+📌 Future Enhancements
+
+✅ Improve feature engineering
+✅ Tune hyperparameters for better performance
+✅ Integrate with a real-time fraud detection system
